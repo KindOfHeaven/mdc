@@ -1,0 +1,3 @@
+User: 192.168.250.59
+Overall bytes: 8479.57 KB
+Total price: 8229.57
