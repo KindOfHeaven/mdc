@@ -6,7 +6,7 @@ Program module for simplest tariffication. Var 4
 # Dependencies
 No dependencies
 # How to run
- `python3 lab.py`
- CDR must be in the same folder, named 'data.csv'
+ `python3 lab.py`  
+ CDR must be in the same folder, named 'data.csv'  
  Program will write a price into output.txt (Create in case it isnt exist)
 
