@@ -4,3 +4,6 @@ Incoming calls amount: 85.7
 Price for incoming calls: 85.7
 Amount of SMS: 18.0
 Price for SMS: 21.0
+User: 192.168.250.59
+Overall bytes: 8479.57 KB
+Total price: 8229.57

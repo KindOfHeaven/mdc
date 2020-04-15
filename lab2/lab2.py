@@ -57,6 +57,6 @@ price = k1*500+k2*(resultBytes-500)
 
 
 output = open('output.txt', 'w')
-output.write('User: ' + IP + '\nOverall bytes: ' + str(resultBytes) + ' ' + a + '\nTotal price: ' + str(price) + '\n')
+output.write('User: ' + IP + '\nOverall bytes: ' + str(resultBytes) + ' ' + a + '\nTotal price: ' + str(price))
 output.close()
 lineplot(timeArr, bytesArr, "Time", "Bytes")

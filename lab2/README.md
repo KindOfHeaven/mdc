@@ -2,7 +2,9 @@
 Program module for tariffication based on NetFlow file. Var 4
 # Dependencies
 matplotlib - chart builder  
-To install it run `python -mpip install -U pip` `python -mpip install -U matplotlib`
+To install it run  
+`python -mpip install -U pip`  
+`python -mpip install -U matplotlib`
 # How to run
  `python3 lab2.py`  
  Trafic data must be in the same folder, named 'nfcapd.202002251200' (This name can be changed by changing constant FILENAME)  
