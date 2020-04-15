@@ -1,10 +1,10 @@
 # Description
 Program module for billing based on data from lab1 and lab2. Var 4
 # Dependencies
-docx2pdf - docx to pdf convertation
-docxtpl - docx template fromatting 
+docx2pdf - docx to pdf convertation  
+docxtpl - docx template fromatting  
 To install it run  
-`python -mpip install -U docx2pdf`  
+`python -mpip install -U docx2pdf`   
 `python -mpip install -U docxtpl`
 # How to run
  `python3 lab3.py`  
